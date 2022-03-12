@@ -11,6 +11,7 @@
 		88126E5927DCC97300E9CEE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88126E5827DCC97300E9CEE7 /* ContentView.swift */; };
 		88126E5B27DCC97400E9CEE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88126E5A27DCC97400E9CEE7 /* Assets.xcassets */; };
 		88126E5E27DCC97400E9CEE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88126E5D27DCC97400E9CEE7 /* Preview Assets.xcassets */; };
+		88126E6527DCD15200E9CEE7 /* CustomCircleAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88126E6427DCD15200E9CEE7 /* CustomCircleAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		88126E5827DCC97300E9CEE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		88126E5A27DCC97400E9CEE7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		88126E5D27DCC97400E9CEE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		88126E6427DCD15200E9CEE7 /* CustomCircleAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				88126E5627DCC97300E9CEE7 /* MotionAnimationApp.swift */,
 				88126E5827DCC97300E9CEE7 /* ContentView.swift */,
+				88126E6427DCD15200E9CEE7 /* CustomCircleAnimation.swift */,
 				88126E5A27DCC97400E9CEE7 /* Assets.xcassets */,
 				88126E5C27DCC97400E9CEE7 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				88126E5927DCC97300E9CEE7 /* ContentView.swift in Sources */,
+				88126E6527DCD15200E9CEE7 /* CustomCircleAnimation.swift in Sources */,
 				88126E5727DCC97300E9CEE7 /* MotionAnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,7 +273,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MotionAnimation/Preview Content\"";
-				DEVELOPMENT_TEAM = 238CXC7DZ6;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -298,7 +302,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"MotionAnimation/Preview Content\"";
-				DEVELOPMENT_TEAM = 238CXC7DZ6;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
